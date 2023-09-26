@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Working on **Code Practice**
 
-- 💬 Ask me about **Java, SQL**
+- 💬 Ask me about **Java, SQL, Python**
 
 - 📫 How to reach me **srivastava.ishan854@gmail.com**
 
