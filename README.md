@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan854&label=Profile%20views&color=0e75b6&style=flat" alt="ishan854" /> </p>
 
-- 🌱 I’m currently Working on **Book Management Store using Spring Boot**
+- 🌱 I’m currently Working on **Code Practice**
 
 - 💬 Ask me about **Java, SQL**
 
